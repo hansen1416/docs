@@ -1,3 +1,11 @@
+# Ignore everything
 .ipynb_checkpoints/
-.idea/
 */.ipynb_checkpoints/
+ttg-lightmode.wiki
+
+# except
+#!.gitignore
+#!docker/
+#!docker/*
+#!note/
+#!note/*
