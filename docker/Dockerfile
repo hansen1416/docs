@@ -1,13 +1,8 @@
+FROM python:3.7-buster
 
-FROM ubuntu:18.04
+# RUN pip install jupyter
 
-# avoid error "debconf: delaying package configuration, since apt-utils is not installed", not important
-ARG DEBIAN_FRONTEND=noninteractive
-
-RUN apt-get clean && apt-get update 
-
-# install python3
-RUN apt-get -y install jupyter-notebook
+RUN python -m pip install numpy scipy matplotlib ipython jupyter pandas sympy nose
 
 RUN mkdir -p /home/docs
 
