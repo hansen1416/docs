@@ -1,0 +1,113 @@
+Series reference,Period,Description,Revised,Initially published
+FPIQ.SEA31,2019.09,"Farm expenses price index, Horticulture and fruit growing farm, Livestock purchases",1434,1453
+FPIQ.SEA31,2019.12,"Farm expenses price index, Horticulture and fruit growing farm, Livestock purchases",1453,1472
+FPIQ.SEA31,2020.03,"Farm expenses price index, Horticulture and fruit growing farm, Livestock purchases",1412,1431
+FPIQ.SEB31,2019.09,"Farm expenses price index, Sheep, beef, and grain farms, Livestock purchases",1489,1492
+FPIQ.SEB31,2019.12,"Farm expenses price index, Sheep, beef, and grain farms, Livestock purchases",1507,1510
+FPIQ.SEB31,2020.03,"Farm expenses price index, Sheep, beef, and grain farms, Livestock purchases",1462,1465
+FPIQ.SEB39,2019.09,"Farm expenses price index, Sheep, beef, and grain farms, Subtotal including livestock",1193,1194
+FPIQ.SEB39,2019.12,"Farm expenses price index, Sheep, beef, and grain farms, Subtotal including livestock",1199,1200
+FPIQ.SEB39,2020.03,"Farm expenses price index, Sheep, beef, and grain farms, Subtotal including livestock",1187,1188
+FPIQ.SEB99,2019.12,"Farm expenses price index, Sheep, beef, and grain farms, All inputs including livestock",1159,1160
+FPIQ.SEC31,2019.09,"Farm expenses price index, Dairy farms, Livestock purchases",992,1074
+FPIQ.SEC31,2019.12,"Farm expenses price index, Dairy farms, Livestock purchases",1009,1091
+FPIQ.SEC31,2020.03,"Farm expenses price index, Dairy farms, Livestock purchases",984,1065
+FPIQ.SEC39,2019.09,"Farm expenses price index, Dairy farms, Subtotal including livestock",1072,1079
+FPIQ.SEC39,2019.12,"Farm expenses price index, Dairy farms, Subtotal including livestock",1080,1087
+FPIQ.SEC39,2020.03,"Farm expenses price index, Dairy farms, Subtotal including livestock",1083,1090
+FPIQ.SEC99,2019.09,"Farm expenses price index, Dairy farms, All inputs including livestock",1047,1052
+FPIQ.SEC99,2019.12,"Farm expenses price index, Dairy farms, All inputs including livestock",1048,1053
+FPIQ.SEC99,2020.03,"Farm expenses price index, Dairy farms, All inputs including livestock",1052,1057
+FPIQ.SED31,2019.09,"Farm expenses price index, Poultry, deer, and other livestock, Livestock purchases",1231,1263
+FPIQ.SED31,2019.12,"Farm expenses price index, Poultry, deer, and other livestock, Livestock purchases",1235,1267
+FPIQ.SED31,2020.03,"Farm expenses price index, Poultry, deer, and other livestock, Livestock purchases",1235,1267
+FPIQ.SED39,2019.09,"Farm expenses price index, Poultry, deer, and other livestock, Subtotal including livestock",1089,1092
+FPIQ.SED39,2019.12,"Farm expenses price index, Poultry, deer, and other livestock, Subtotal including livestock",1092,1095
+FPIQ.SED39,2020.03,"Farm expenses price index, Poultry, deer, and other livestock, Subtotal including livestock",1097,1099
+FPIQ.SED99,2019.09,"Farm expenses price index, Poultry, deer, and other livestock, All inputs including livestock",1075,1077
+FPIQ.SED99,2019.12,"Farm expenses price index, Poultry, deer, and other livestock, All inputs including livestock",1077,1079
+FPIQ.SED99,2020.03,"Farm expenses price index, Poultry, deer, and other livestock, All inputs including livestock",1081,1083
+FPIQ.SEE31,2019.09,"Farm expenses price index, Sheep and beef farms, Livestock purchases",1489,1492
+FPIQ.SEE31,2019.12,"Farm expenses price index, Sheep and beef farms, Livestock purchases",1507,1510
+FPIQ.SEE31,2020.03,"Farm expenses price index, Sheep and beef farms, Livestock purchases",1462,1465
+FPIQ.SEE39,2019.09,"Farm expenses price index, Sheep and beef farms, Subtotal including livestock",1206,1207
+FPIQ.SEE39,2019.12,"Farm expenses price index, Sheep and beef farms, Subtotal including livestock",1213,1214
+FPIQ.SEE39,2020.03,"Farm expenses price index, Sheep and beef farms, Subtotal including livestock",1199,1200
+FPIQ.SEE99,2019.09,"Farm expenses price index, Sheep and beef farms, All inputs including livestock",1166,1167
+FPIQ.SEE99,2019.12,"Farm expenses price index, Sheep and beef farms, All inputs including livestock",1170,1171
+FPIQ.SEE99,2020.03,"Farm expenses price index, Sheep and beef farms, All inputs including livestock",1160,1161
+FPIQ.SEF31,2019.09,"Farm expenses price index, Cropping and other farming, Livestock purchases",1231,1263
+FPIQ.SEF31,2019.12,"Farm expenses price index, Cropping and other farming, Livestock purchases",1235,1267
+FPIQ.SEF31,2020.03,"Farm expenses price index, Cropping and other farming, Livestock purchases",1235,1267
+FPIQ.SEF39,2019.09,"Farm expenses price index, Cropping and other farming, Subtotal including livestock",1080,1082
+FPIQ.SEF39,2019.12,"Farm expenses price index, Cropping and other farming, Subtotal including livestock",1083,1085
+FPIQ.SEF39,2020.03,"Farm expenses price index, Cropping and other farming, Subtotal including livestock",1085,1087
+FPIQ.SEF99,2019.09,"Farm expenses price index, Cropping and other farming, All inputs including livestock",1067,1068
+FPIQ.SEF99,2019.12,"Farm expenses price index, Cropping and other farming, All inputs including livestock",1067,1068
+FPIQ.SEF99,2020.03,"Farm expenses price index, Cropping and other farming, All inputs including livestock",1069,1070
+FPIQ.SEH31,2019.09,"Farm expenses price index, All farms, Livestock purchases",1219,1267
+FPIQ.SEH31,2019.12,"Farm expenses price index, All farms, Livestock purchases",1236,1284
+FPIQ.SEH31,2020.03,"Farm expenses price index, All farms, Livestock purchases",1205,1253
+FPIQ.SEH39,2019.09,"Farm expenses price index, All farms, Subtotal including livestock",1122,1126
+FPIQ.SEH39,2019.12,"Farm expenses price index, All farms, Subtotal including livestock",1128,1132
+FPIQ.SEH39,2020.03,"Farm expenses price index, All farms, Subtotal including livestock",1126,1130
+FPIQ.SEH99,2019.09,"Farm expenses price index, All farms, All inputs including livestock",1095,1097
+FPIQ.SEH99,2019.12,"Farm expenses price index, All farms, All inputs including livestock",1097,1099
+FPIQ.SEH99,2020.03,"Farm expenses price index, All farms, All inputs including livestock",1096,1099
+PPIQ.SQN800000,2019.12,"PPI input index level 0, All industries excl admin, health, education",1169,1170
+PPIQ.SQN800001,2020.03,"PPI input index level 0, All industries excl admin health education OOD",1165,1166
+PPIQ.SQN900000,2019.12,"PPI input index level 0, All industries",1168,1169
+PPIQ.SQN900001,2019.12,"PPI input index level 0, All industries excl OOD",1168,1169
+PPIQ.SQNAA0000,2019.09,"PPI input index level 1, Agriculture",1200,1203
+PPIQ.SQNAA0000,2019.12,"PPI input index level 1, Agriculture",1205,1207
+PPIQ.SQNAA0000,2020.03,"PPI input index level 1, Agriculture",1205,1207
+PPIQ.SQNAA1000,2019.09,"PPI input index level 2, Agriculture",1197,1200
+PPIQ.SQNAA1000,2019.12,"PPI input index level 2, Agriculture",1201,1204
+PPIQ.SQNAA1000,2020.03,"PPI input index level 2, Agriculture",1200,1203
+PPIQ.SQNAA1100,2019.09,"PPI input index level 3, Horticulture and fruit growing",1160,1161
+PPIQ.SQNAA1201,2019.12,"PPI input index level 3, Sheep, beef cattle, and grain farming",1193,1194
+PPIQ.SQNAA1201,2020.03,"PPI input index level 3, Sheep, beef cattle, and grain farming",1182,1183
+PPIQ.SQNAA1300,2019.09,"PPI input index level 3, Dairy cattle farming",1164,1171
+PPIQ.SQNAA1300,2019.12,"PPI input index level 3, Dairy cattle farming",1169,1176
+PPIQ.SQNAA1300,2020.03,"PPI input index level 3, Dairy cattle farming",1173,1181
+PPIQ.SQNAA1401,2019.09,"PPI input index level 3, Poultry, deer, and other livestock farming",1089,1092
+PPIQ.SQNAA1401,2019.12,"PPI input index level 3, Poultry, deer, and other livestock farming",1092,1094
+PPIQ.SQNAA1401,2020.03,"PPI input index level 3, Poultry, deer, and other livestock farming",1096,1099
+PPIQ.SQNC02100,2019.09,"PPI published commodities - input, Livestock, sheep",1674,1694
+PPIQ.SQNC02100,2019.12,"PPI published commodities - input, Livestock, sheep",1745,1765
+PPIQ.SQNC02100,2020.03,"PPI published commodities - input, Livestock, sheep",1514,1534
+PPIQ.SQNC02250,2019.09,"PPI published commodities - input, Livestock, cattle",1960,1948
+PPIQ.SQNC02250,2019.12,"PPI published commodities - input, Livestock, cattle",2099,2088
+PPIQ.SQNC02250,2020.03,"PPI published commodities - input, Livestock, cattle",1756,1745
+PPIQ.SQNC02420,2019.09,"PPI published commodities - input, Livestock, deer",1396,1402
+PPIQ.SQNC02420,2019.12,"PPI published commodities - input, Livestock, deer",1385,1391
+PPIQ.SQNC02420,2020.03,"PPI published commodities - input, Livestock, deer",1199,1205
+PPIQ.SQNCC0000,2019.09,"PPI input index level 1, Manufacturing",1153,1154
+PPIQ.SQNCC1000,2019.12,"PPI input index level 2, Food manufacturing",1231,1232
+PPIQ.SQNCC1000,2020.03,"PPI input index level 2, Food manufacturing",1202,1203
+PPIQ.SQNCC1100,2019.09,"PPI input index level 3, Meat and meat product manufacturing",1400,1403
+PPIQ.SQNCC1100,2019.12,"PPI input index level 3, Meat and meat product manufacturing",1450,1454
+PPIQ.SQNCC1100,2020.03,"PPI input index level 3, Meat and meat product manufacturing",1317,1320
+PPIQ.SQUAA0000,2019.09,"PPI output index level 1, Agriculture",1286,1287
+PPIQ.SQUAA0000,2019.12,"PPI output index level 1, Agriculture",1317,1318
+PPIQ.SQUAA0000,2020.03,"PPI output index level 1, Agriculture",1276,1277
+PPIQ.SQUAA1000,2019.09,"PPI output index level 2, Agriculture",1297,1298
+PPIQ.SQUAA1000,2019.12,"PPI output index level 2, Agriculture",1335,1336
+PPIQ.SQUAA1000,2020.03,"PPI output index level 2, Agriculture",1282,1283
+PPIQ.SQUAA1200,2019.09,"PPI output index level 3, Sheep, beef cattle, and grain farming",1541,1545
+PPIQ.SQUAA1200,2019.12,"PPI output index level 3, Sheep, beef cattle, and grain farming",1609,1613
+PPIQ.SQUAA1200,2020.03,"PPI output index level 3, Sheep, beef cattle, and grain farming",1424,1428
+PPIQ.SQUAA1300,2019.12,"PPI output index level 3, Dairy cattle farming",1100,1101
+PPIQ.SQUAA1400,2020.03,"PPI output index level 3, Poultry, deer, and other livestock farming",1276,1277
+PPIQ.SQUC02100,2019.09,"PPI published commodities - output, Livestock, sheep",2152,2178
+PPIQ.SQUC02100,2019.12,"PPI published commodities - output, Livestock, sheep",2245,2270
+PPIQ.SQUC02100,2020.03,"PPI published commodities - output, Livestock, sheep",1947,1972
+PPIQ.SQUC02250,2019.09,"PPI published commodities - output, Livestock, cattle",1958,1947
+PPIQ.SQUC02250,2019.12,"PPI published commodities - output, Livestock, cattle",2098,2087
+PPIQ.SQUC02250,2020.03,"PPI published commodities - output, Livestock, cattle",1754,1743
+PPIQ.SQUC02420,2019.09,"PPI published commodities - output, Livestock, deer",1394,1400
+PPIQ.SQUC02420,2019.12,"PPI published commodities - output, Livestock, deer",1383,1389
+PPIQ.SQUC02420,2020.03,"PPI published commodities - output, Livestock, deer",1197,1203
+PPIQ.SQUII0000,2020.03,"PPI output index level 1, Transport, postal and warehousing",1202,1199
+PPIQ.SQUII1000,2020.03,"PPI output index level 2, Transport, postal and warehousing",1202,1199
+PPIQ.SQUII1200,2020.03,"PPI output index level 3, Rail, water, air and other transport",1089,1083
