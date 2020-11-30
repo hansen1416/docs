@@ -1,0 +1,4 @@
+__pycache__
+
+seen_actors.npy
+seen_movies.npy
