@@ -167,7 +167,7 @@ def get_movie_distance(actor_start_url, actor_end_url, num_of_actors_limit=5, nu
     else:
       return length - 1
   else:
-    return None
+    return float('inf')
 
 def get_movie_descriptions_by_actor_soup(actor_page_soup):
     # your code here
