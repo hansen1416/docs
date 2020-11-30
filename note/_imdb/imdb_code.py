@@ -160,8 +160,14 @@ def get_movie_distance(actor_start_url, actor_end_url, num_of_actors_limit=5, nu
   connection = helper.search_actor_connection(start_tuple, end_tuple, start_tuple[0] + '|' + start_tuple[1], saved_actors=seen_actors, saved_movies=seen_movies, \
                             max_depth=4, num_of_actors_limit=num_of_actors_limit, num_of_movies_limit=num_of_movies_limit)
 
-  return connection
-
+  if connection:
+    length = len(connection.split('::'))
+    if length >= 3:
+      return length - 2
+    else:
+      return length - 1
+  else:
+    return None
 
 def get_movie_descriptions_by_actor_soup(actor_page_soup):
     # your code here
