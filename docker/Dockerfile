@@ -1,6 +1,7 @@
 FROM python:3.7-buster
 
-RUN python -m pip install numpy scipy matplotlib ipython jupyter pandas sympy nose tabula-py PyMuPDF requests xlrd
+RUN python -m pip install numpy scipy matplotlib ipython jupyter pandas \
+sympy nose tabula-py PyMuPDF requests xlrd networkx wordcloud
 
 RUN mkdir -p /home/docs
 
