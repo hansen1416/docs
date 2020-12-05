@@ -1,0 +1,46 @@
+actor_from,actor_to,distance
+Dwayne Johnson,Chris Hemsworth,2.0
+Dwayne Johnson,Robert Downey Jr.,2.0
+Dwayne Johnson,Akshay Kumar,inf
+Dwayne Johnson,Jackie Chan,2.0
+Dwayne Johnson,Bradley Cooper,2.0
+Dwayne Johnson,Adam Sandler,2.0
+Dwayne Johnson,Scarlett Johansson,2.0
+Dwayne Johnson,Sofia Vergara,inf
+Dwayne Johnson,Chris Evans,2.0
+Chris Hemsworth,Robert Downey Jr.,1.0
+Chris Hemsworth,Akshay Kumar,2.0
+Chris Hemsworth,Jackie Chan,2.0
+Chris Hemsworth,Bradley Cooper,2.0
+Chris Hemsworth,Adam Sandler,inf
+Chris Hemsworth,Scarlett Johansson,1.0
+Chris Hemsworth,Sofia Vergara,inf
+Chris Hemsworth,Chris Evans,1.0
+Robert Downey Jr.,Akshay Kumar,inf
+Robert Downey Jr.,Jackie Chan,inf
+Robert Downey Jr.,Bradley Cooper,2.0
+Robert Downey Jr.,Adam Sandler,2.0
+Robert Downey Jr.,Scarlett Johansson,1.0
+Robert Downey Jr.,Sofia Vergara,inf
+Robert Downey Jr.,Chris Evans,1.0
+Akshay Kumar,Jackie Chan,inf
+Akshay Kumar,Bradley Cooper,inf
+Akshay Kumar,Adam Sandler,inf
+Akshay Kumar,Scarlett Johansson,inf
+Akshay Kumar,Sofia Vergara,inf
+Akshay Kumar,Chris Evans,inf
+Jackie Chan,Bradley Cooper,inf
+Jackie Chan,Adam Sandler,inf
+Jackie Chan,Scarlett Johansson,2.0
+Jackie Chan,Sofia Vergara,inf
+Jackie Chan,Chris Evans,2.0
+Bradley Cooper,Adam Sandler,2.0
+Bradley Cooper,Scarlett Johansson,1.0
+Bradley Cooper,Sofia Vergara,inf
+Bradley Cooper,Chris Evans,1.0
+Adam Sandler,Scarlett Johansson,2.0
+Adam Sandler,Sofia Vergara,inf
+Adam Sandler,Chris Evans,2.0
+Scarlett Johansson,Sofia Vergara,inf
+Scarlett Johansson,Chris Evans,1.0
+Sofia Vergara,Chris Evans,2.0
