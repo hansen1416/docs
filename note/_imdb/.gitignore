@@ -1,4 +1,6 @@
 __pycache__
 
+actors_url.npy
 seen_actors.npy
 seen_movies.npy
+movie_desc.npy

@@ -58,7 +58,7 @@ def get_actors_by_movie_soup(cast_page_soup, num_of_actors_limit=None):
   return actor_list
 
 
-def get_movies_by_actor_soup(actor_page_soup, num_of_movies_limit=None, debug=False):
+def get_movies_by_actor_soup(actor_page_soup, num_of_movies_limit=None):
   """
   - The function should return only those movies, that have already been released.
   - Sometimes actors could be producers, or even directors, or something else. The function should return only those movies, 
@@ -170,5 +170,33 @@ def get_movie_distance(actor_start_url, actor_end_url, num_of_actors_limit=5, nu
     return float('inf')
 
 def get_movie_descriptions_by_actor_soup(actor_page_soup):
-    # your code here
-    return # your code here
+
+  actor_movies = get_movies_by_actor_soup(actor_page_soup)
+
+  movie_desc_file = os.environ.get('IMDB_STORAGE_PATH', os.getcwd()) + '/movie_desc.npy'
+
+  if os.path.isfile(movie_desc_file):
+    movie_desc = np.load(movie_desc_file, allow_pickle = True).item()
+  else:
+    movie_desc = {}
+    
+  actor_movie_desc = []
+
+  for movie in actor_movies:
+
+    if movie in movie_desc:
+      actor_movie_desc.append(movie_desc[movie])
+      continue
+
+    movie_soup = helper.get_actor_movie_soup(movie[1])
+
+    summary_text = movie_soup.find('div', attrs={'class': 'summary_text'})
+
+    if summary_text:
+      movie_desc[movie] = helper.imdb_strip_text(summary_text.text)
+
+      actor_movie_desc.append(movie_desc[movie])
+
+      np.save(movie_desc_file, movie_desc)
+
+  return actor_movie_desc
