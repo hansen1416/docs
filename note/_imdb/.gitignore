@@ -4,3 +4,7 @@ actors_url.npy
 seen_actors.npy
 seen_movies.npy
 movie_desc.npy
+movie_desc/
+movie_distances.csv
+man_mask.npy
+woman_mask.npy
